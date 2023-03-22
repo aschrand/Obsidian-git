@@ -11,8 +11,12 @@
             "id": "4b42bcbcc41f21f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -146,41 +154,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e6aa0bbd1582eae",
+  "active": "4b42bcbcc41f21f9",
   "lastOpenFiles": [
+    "Producten.md",
+    "Organisaties.md",
+    "Maand mei2020.csv",
+    "Inzichten.md",
+    "Home.md",
+    "EA artikelen.md",
+    "Definities.md",
+    "Artikelen.md",
+    "Voorbeelden.md",
+    "Test",
+    "Templates/Basic note.md",
+    "Templates",
+    "Softskills/Zo schrijf je een begrijpelijke tekst in 9 stappen.md",
+    "Softskills/vertrouwen naar resultaat.md",
+    "Softskills/Veelgemaakte fouten bij webteksten.md",
+    "Softskills/Teamdag DUS-I.md",
+    "Softskills/Taalvalkuilen.md",
+    "Softskills/Rockefeller Habits.md",
+    "Softskills/Rockefeller Business disciplines.md",
+    "Softskills/Oudere medewerkers.md",
+    "Softskills/Motivatiebrief.md",
+    "Softskills/Luciferverhaal.md",
+    "Softskills/Kwesties.md",
+    "Softskills/Kosten vervangen medewerker.md",
+    "Softskills/How to write a LinkeIn recommendation.md",
+    "Softskills/Gesprekstechnieken.md",
+    "Softskills/Communicating during conflicts.md",
+    "Softskills/Componenten voor succesvol management.md",
+    "Softskills/Belonen werkt niet.md",
+    "Softskills",
+    "Python",
+    "Producten",
+    "Overig",
+    "Organisaties",
+    "Zorg",
     "Inbox",
-    "Home Assistant/Music assistant.md",
     "Home Assistant/Netwerk.canvas",
-    "Home Assistant/Athom plug.md",
-    "Home Assistant/Home automation links.md",
-    "Home Assistant/5 scripts.md",
-    "Home Assistant",
-    "Definities/Why Virtualization.md",
-    "Definities/Usability.md",
-    "Definities/Time Sharing.md",
-    "Definities/SWOT analyse.md",
-    "Definities/Strangler Pattern.md",
-    "Definities/Slot grammar.md",
-    "Definities/service model canvas.md",
-    "Definities/Serverless.md",
-    "Definities/Server Virtualization Definition.md",
-    "Definities/Security.md",
-    "Definities/Scalability.md",
-    "Definities/Reverse-ETL.md",
-    "Definities/Resiliency.md",
-    "Definities/Pub Sub Pattern.md",
-    "Definities/POPIT model.md",
-    "Definities/Pestle.md",
-    "Definities/PESTLE analyse.md",
-    "Definities/Observability.md",
-    "Definities/NEN7503 2022.md",
-    "Definities/Multi-party computation.md",
-    "Definities/Microservice workflow automation.md",
-    "Definities",
-    "Cheat sheets/Obsidian",
-    "Cheat sheets",
     "Onderwerpen/AI.canvas",
-    "Onderwerpen",
     "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
     "Assets/Pasted image 20230214151302.png",
     "Assets/Pasted image 20230210144318.png",
@@ -190,9 +203,6 @@
     "Assets/Pasted image 20230210144038.png",
     "Assets/Pasted image 20230208105552.png",
     "Assets/Pasted image 20230206231341.png",
-    "Assets/Pasted image 20230202152513.png",
-    "Assets",
-    "Artikelen",
-    "Untitled"
+    "Assets/Pasted image 20230202152513.png"
   ]
 }
