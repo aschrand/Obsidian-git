@@ -12,7 +12,8 @@
 		{"type":"link","url":"https://scottytechnologies.com/","id":"127c6b890b5073a5","x":1214,"y":-60,"width":400,"height":400},
 		{"type":"file","file":"Artikelen/ChatGPT for Newbies in Data Science.md","id":"fbea293da40b2833","x":-530,"y":-340,"width":416,"height":400},
 		{"type":"file","file":"Definities/machine learning.md","id":"0b9be60296453808","x":-530,"y":-960,"width":400,"height":400},
-		{"type":"file","file":"Onderwerpen/AI index.md","id":"5d02a0b3f7f667d6","x":-1280,"y":-760,"width":700,"height":540}
+		{"type":"file","file":"Artikelen/capgeminiDeepDiveChatGPT2023.md","id":"266b87d60ff10bd2","x":880,"y":-1160,"width":400,"height":400},
+		{"type":"file","file":"Onderwerpen/AI index.md","id":"5d02a0b3f7f667d6","x":-1476,"y":-960,"width":700,"height":580}
 	],
 	"edges":[
 		{"id":"45fc5ac052e473ea","fromNode":"247596e749612ebc","fromSide":"bottom","toNode":"4a36c3611f7a60fb","toSide":"top"},
@@ -28,6 +29,7 @@
 		{"id":"58b0c88ca3f18d27","fromNode":"07577cad2631156c","fromSide":"right","toNode":"aea169440d0e9668","toSide":"left"},
 		{"id":"7c38753fc5a7fe95","fromNode":"0b9be60296453808","fromSide":"bottom","toNode":"fbea293da40b2833","toSide":"top"},
 		{"id":"1a4024659c03e78e","fromNode":"0b9be60296453808","fromSide":"right","toNode":"8dab24052094e7b4","toSide":"left"},
-		{"id":"508913b1521edc8b","fromNode":"247596e749612ebc","fromSide":"top","toNode":"0b9be60296453808","toSide":"right"}
+		{"id":"508913b1521edc8b","fromNode":"247596e749612ebc","fromSide":"top","toNode":"0b9be60296453808","toSide":"right"},
+		{"id":"6bb9a6d8935dec94","fromNode":"266b87d60ff10bd2","fromSide":"left","toNode":"3fbdecd2c07ea91c","toSide":"right"}
 	]
 }

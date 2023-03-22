@@ -4,47 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "38f794a4998e1a8e",
+        "id": "90c9ac0d8422c51b",
         "type": "tabs",
         "children": [
           {
-            "id": "4eaa338dbbb860d8",
+            "id": "633e4726bdd2aebd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/Zotero Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f0282c744e6dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stewartEnterpriseAgileRequirements2014.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5055f81869b7a56f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat sheets/Obsidian/Zotero integration.md",
-                "mode": "source",
-                "source": false
+                "file": "Onderwerpen/AI.canvas",
+                "viewState": {
+                  "x": 460.3218583396802,
+                  "y": -106.80304645849196,
+                  "zoom": -0.7532669126625754
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat sheets/Obsidian/Zotero integration.md",
+                "file": "Onderwerpen/AI.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat sheets/Obsidian/Zotero integration.md",
+                "file": "Onderwerpen/AI.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat sheets/Obsidian/Zotero integration.md"
+                "file": "Onderwerpen/AI.canvas"
               }
             }
           },
@@ -180,15 +158,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5055f81869b7a56f",
+  "active": "633e4726bdd2aebd",
   "lastOpenFiles": [
+    "Onderwerpen/AI index.md",
+    "Onderwerpen/AI.canvas",
+    "Artikelen/capgeminiDeepDiveChatGPT2023.md",
+    "capgeminiDeepDiveChatGPT.md",
+    "Assets/image-2-x301-y20.png",
     "stewartEnterpriseAgileRequirements2014.md",
+    "Home.md",
     "Cheat sheets/Obsidian/Zotero integration.md",
     "Untitled.md",
     "Templates/Zotero Template.md",
     "Templates/Basic note.md",
     "Home Assistant/Music assistant.md",
-    "Home.md",
     "Cheat sheets/Obsidian/voorbeeld vault.md",
     "Cheat sheets/Obsidian/Obsidian callouts.md",
     "Cheat sheets/Obsidian/Github sync.md",
@@ -197,7 +180,6 @@
     "Cheat sheets/Obsidian/CSS Snippets.md",
     "Cheat sheets/Obsidian/Diagrams.md",
     "Home Assistant/Netwerk.canvas",
-    "Onderwerpen/AI.canvas",
     "Home Assistant/5 scripts.md",
     "Producten.md",
     "Organisaties.md",
@@ -210,9 +192,6 @@
     "Test",
     "Templates",
     "Softskills/Zo schrijf je een begrijpelijke tekst in 9 stappen.md",
-    "Softskills/vertrouwen naar resultaat.md",
-    "Softskills/Veelgemaakte fouten bij webteksten.md",
-    "Softskills/Teamdag DUS-I.md",
     "Softskills",
     "Python",
     "Producten",
@@ -228,7 +207,6 @@
     "Assets/Pasted image 20230210144109.png",
     "Assets/Pasted image 20230210144038.png",
     "Assets/Pasted image 20230208105552.png",
-    "Assets/Pasted image 20230206231341.png",
-    "Assets/Pasted image 20230202152513.png"
+    "Assets/Pasted image 20230206231341.png"
   ]
 }
