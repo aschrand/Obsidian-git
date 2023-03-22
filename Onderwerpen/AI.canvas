@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"file","file":"Definities/Slot grammar.md","id":"07577cad2631156c","x":-1344,"y":69,"width":436,"height":507},
+		{"type":"text","text":"AI","id":"247596e749612ebc","x":51,"y":262,"width":250,"height":60,"color":"3"},
+		{"type":"file","file":"Artikelen/Augmented IT Architects with ChatGPT.md","id":"9ca19e49ece69d48","x":480,"y":452,"width":400,"height":400},
+		{"type":"file","file":"Producten/Scotty.md","id":"025c3bc1def5230a","x":640,"y":-78,"width":400,"height":400},
+		{"type":"file","file":"Definities/Generatieve AI.md","id":"3fbdecd2c07ea91c","x":200,"y":-340,"width":400,"height":400},
+		{"type":"file","file":"Definities/LONG SHORT-TERM MEMORY.md","id":"c55d59ebe8a8d206","x":788,"y":-664,"width":400,"height":400},
+		{"type":"file","file":"Definities/LSTM _ Introduction to LSTM _ Long Short Term Memory.md","id":"8dab24052094e7b4","x":229,"y":-834,"width":400,"height":400},
+		{"type":"file","file":"Artikelen/What happend to IBM Watson.md","id":"aea169440d0e9668","x":-664,"y":163,"width":400,"height":400},
+		{"type":"link","url":"https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises","id":"4a36c3611f7a60fb","x":29,"y":452,"width":400,"height":400},
+		{"type":"link","url":"https://scottytechnologies.com/","id":"127c6b890b5073a5","x":1214,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"Artikelen/ChatGPT for Newbies in Data Science.md","id":"fbea293da40b2833","x":-530,"y":-340,"width":416,"height":400},
+		{"type":"file","file":"Definities/machine learning.md","id":"0b9be60296453808","x":-530,"y":-960,"width":400,"height":400},
+		{"type":"file","file":"Onderwerpen/AI index.md","id":"5d02a0b3f7f667d6","x":-1280,"y":-760,"width":700,"height":540}
+	],
+	"edges":[
+		{"id":"45fc5ac052e473ea","fromNode":"247596e749612ebc","fromSide":"bottom","toNode":"4a36c3611f7a60fb","toSide":"top"},
+		{"id":"d834cc7f0ce8fcbf","fromNode":"247596e749612ebc","fromSide":"right","toNode":"9ca19e49ece69d48","toSide":"top"},
+		{"id":"53ef2571a66abf77","fromNode":"247596e749612ebc","fromSide":"right","toNode":"025c3bc1def5230a","toSide":"left"},
+		{"id":"b2f5ed82c1096c0e","fromNode":"247596e749612ebc","fromSide":"top","toNode":"3fbdecd2c07ea91c","toSide":"bottom"},
+		{"id":"9b4ca78da5bdb6e7","fromNode":"247596e749612ebc","fromSide":"top","toNode":"fbea293da40b2833","toSide":"bottom"},
+		{"id":"34fec434031c51f5","fromNode":"025c3bc1def5230a","fromSide":"right","toNode":"127c6b890b5073a5","toSide":"left"},
+		{"id":"d133894fb5bc3c9c","fromNode":"c55d59ebe8a8d206","fromSide":"left","toNode":"3fbdecd2c07ea91c","toSide":"right"},
+		{"id":"d6b27826bc75cf3c","fromNode":"8dab24052094e7b4","fromSide":"bottom","toNode":"3fbdecd2c07ea91c","toSide":"top"},
+		{"id":"de4d1b3f35e89807","fromNode":"247596e749612ebc","fromSide":"left","toNode":"aea169440d0e9668","toSide":"right"},
+		{"id":"9a4330afddc0f7e1","fromNode":"3fbdecd2c07ea91c","fromSide":"left","toNode":"fbea293da40b2833","toSide":"right"},
+		{"id":"58b0c88ca3f18d27","fromNode":"07577cad2631156c","fromSide":"right","toNode":"aea169440d0e9668","toSide":"left"},
+		{"id":"7c38753fc5a7fe95","fromNode":"0b9be60296453808","fromSide":"bottom","toNode":"fbea293da40b2833","toSide":"top"},
+		{"id":"1a4024659c03e78e","fromNode":"0b9be60296453808","fromSide":"right","toNode":"8dab24052094e7b4","toSide":"left"},
+		{"id":"508913b1521edc8b","fromNode":"247596e749612ebc","fromSide":"top","toNode":"0b9be60296453808","toSide":"right"}
+	]
+}
