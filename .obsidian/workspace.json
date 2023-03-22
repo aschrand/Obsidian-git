@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "64125c5e03de1df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "38f794a4998e1a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b42bcbcc41f21f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd53af526c410a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a61a93f795ebac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ae5ba763baddce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d158e72786d1db7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ca668092b6fb341",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "971cff2036023531",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e3ea3f64ccfd46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "715a0b752db70f0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e29f5b6b2db3ffbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a07dc52568c6f955",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0965da2e522ffbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e6aa0bbd1582eae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "71ae5ba763baddce",
+  "lastOpenFiles": [
+    "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
+    "Assets/Pasted image 20230214151302.png",
+    "Assets/Pasted image 20230210144318.png",
+    "Assets/Pasted image 20230210144253.png",
+    "Assets/Pasted image 20230210144145.png",
+    "Assets/Pasted image 20230210144109.png",
+    "Assets/Pasted image 20230210144038.png",
+    "Assets/Pasted image 20230208105552.png",
+    "Assets/Pasted image 20230206231341.png",
+    "Assets/Pasted image 20230202152513.png",
+    "Assets/Pasted image 20230202151828.png",
+    "Assets",
+    "Artikelen/What TOGAF is and is not.md",
+    "Artikelen/What happend to IBM Watson.md",
+    "Artikelen/What Are Large Language Models Used For and Why Are They Important .md",
+    "Artikelen/uitdagingen security by design.md",
+    "Artikelen/TOGAF exam self study.md",
+    "Artikelen/Security Capabilities All The Way Down.md",
+    "Artikelen/security by design.md",
+    "Artikelen/Saga.md",
+    "Artikelen/Reverse conway manoeuvre.md",
+    "Artikelen/Rest, RPC and brokered messaging.md",
+    "Artikelen/Orchestration vs. Choreography.md",
+    "Artikelen/Orchestration Can Kill Microservices and Create a Distributed Monolith.md",
+    "Artikelen/OGSM-methode.md",
+    "Artikelen/Nonfunctional-requirements.md",
+    "Artikelen/Microservice disaster.md",
+    "Artikelen/Key attributes of cloud native apps.md",
+    "Artikelen/Introduction to Micro Frontend Architecture.md",
+    "Artikelen/Informatiegestuurd werken.md",
+    "Artikelen/how chatGPT works.md",
+    "Artikelen/Entropie in software ontwikkeling.md",
+    "Artikelen/EHDS.md",
+    "Artikelen/Domain Driven Design (DDD) in gewoon Nederlands.md",
+    "Artikelen/Data pipelines.md",
+    "Artikelen/Data driven strategy.md",
+    "Artikelen/CQRS.md",
+    "Artikelen",
+    "Untitled"
+  ]
+}
