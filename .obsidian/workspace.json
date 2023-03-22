@@ -13,13 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Home Assistant/5 scripts.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b45164f425099369",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home Assistant/Netwerk.canvas",
+                "viewState": {
+                  "x": 175,
+                  "y": -410,
+                  "zoom": -0.7724575110476494
+                }
+              }
+            }
+          },
+          {
+            "id": "5de1d40c2bc4cf35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat sheets/Obsidian/Github sync.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "971cff2036023531",
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cheat sheets/Obsidian/Github sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Cheat sheets/Obsidian/Github sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Cheat sheets/Obsidian/Github sync.md"
               }
             }
           },
@@ -151,16 +179,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "4b42bcbcc41f21f9",
+  "active": "5de1d40c2bc4cf35",
   "lastOpenFiles": [
+    "Home Assistant/Netwerk.canvas",
+    "Cheat sheets/Obsidian/Github sync.md",
+    "Onderwerpen/AI.canvas",
+    "Home.md",
+    "Home Assistant/5 scripts.md",
     "Producten.md",
     "Organisaties.md",
     "Maand mei2020.csv",
     "Inzichten.md",
-    "Home.md",
     "EA artikelen.md",
     "Definities.md",
     "Artikelen.md",
@@ -182,9 +215,6 @@
     "Softskills/Kosten vervangen medewerker.md",
     "Softskills/How to write a LinkeIn recommendation.md",
     "Softskills/Gesprekstechnieken.md",
-    "Softskills/Communicating during conflicts.md",
-    "Softskills/Componenten voor succesvol management.md",
-    "Softskills/Belonen werkt niet.md",
     "Softskills",
     "Python",
     "Producten",
@@ -192,8 +222,6 @@
     "Organisaties",
     "Zorg",
     "Inbox",
-    "Home Assistant/Netwerk.canvas",
-    "Onderwerpen/AI.canvas",
     "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
     "Assets/Pasted image 20230214151302.png",
     "Assets/Pasted image 20230210144318.png",
