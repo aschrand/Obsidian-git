@@ -8,39 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b42bcbcc41f21f9",
+            "id": "4eaa338dbbb860d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Assistant/5 scripts.md",
-                "mode": "preview",
+                "file": "Templates/Zotero Template.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b45164f425099369",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Home Assistant/Netwerk.canvas",
-                "viewState": {
-                  "x": 175,
-                  "y": -410,
-                  "zoom": -0.7724575110476494
-                }
-              }
-            }
-          },
-          {
-            "id": "5de1d40c2bc4cf35",
+            "id": "45f0282c744e6dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat sheets/Obsidian/Github sync.md",
+                "file": "stewartEnterpriseAgileRequirements2014.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5055f81869b7a56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat sheets/Obsidian/Zotero integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat sheets/Obsidian/Github sync.md",
+                "file": "Cheat sheets/Obsidian/Zotero integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat sheets/Obsidian/Github sync.md",
+                "file": "Cheat sheets/Obsidian/Zotero integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat sheets/Obsidian/Github sync.md"
+                "file": "Cheat sheets/Obsidian/Zotero integration.md"
               }
             }
           },
@@ -183,12 +180,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5de1d40c2bc4cf35",
+  "active": "5055f81869b7a56f",
   "lastOpenFiles": [
-    "Home Assistant/Netwerk.canvas",
-    "Cheat sheets/Obsidian/Github sync.md",
-    "Onderwerpen/AI.canvas",
+    "stewartEnterpriseAgileRequirements2014.md",
+    "Cheat sheets/Obsidian/Zotero integration.md",
+    "Untitled.md",
+    "Templates/Zotero Template.md",
+    "Templates/Basic note.md",
+    "Home Assistant/Music assistant.md",
     "Home.md",
+    "Cheat sheets/Obsidian/voorbeeld vault.md",
+    "Cheat sheets/Obsidian/Obsidian callouts.md",
+    "Cheat sheets/Obsidian/Github sync.md",
+    "Cheat sheets/Obsidian/Dataview.md",
+    "Cheat sheets/Obsidian/Dashboard++.md",
+    "Cheat sheets/Obsidian/CSS Snippets.md",
+    "Cheat sheets/Obsidian/Diagrams.md",
+    "Home Assistant/Netwerk.canvas",
+    "Onderwerpen/AI.canvas",
     "Home Assistant/5 scripts.md",
     "Producten.md",
     "Organisaties.md",
@@ -199,22 +208,11 @@
     "Artikelen.md",
     "Voorbeelden.md",
     "Test",
-    "Templates/Basic note.md",
     "Templates",
     "Softskills/Zo schrijf je een begrijpelijke tekst in 9 stappen.md",
     "Softskills/vertrouwen naar resultaat.md",
     "Softskills/Veelgemaakte fouten bij webteksten.md",
     "Softskills/Teamdag DUS-I.md",
-    "Softskills/Taalvalkuilen.md",
-    "Softskills/Rockefeller Habits.md",
-    "Softskills/Rockefeller Business disciplines.md",
-    "Softskills/Oudere medewerkers.md",
-    "Softskills/Motivatiebrief.md",
-    "Softskills/Luciferverhaal.md",
-    "Softskills/Kwesties.md",
-    "Softskills/Kosten vervangen medewerker.md",
-    "Softskills/How to write a LinkeIn recommendation.md",
-    "Softskills/Gesprekstechnieken.md",
     "Softskills",
     "Python",
     "Producten",

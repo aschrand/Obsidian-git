@@ -1,3 +1,6 @@
+---
+type: cheatsheet
+---
 Dataview
 
 [Open plugin in Obsidian](obsidian://show-plugin?id=dataview)

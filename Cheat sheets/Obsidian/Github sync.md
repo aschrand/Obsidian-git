@@ -1,3 +1,6 @@
+---
+type: cheatsheet
+---
 [Sync Your Obsidian Vault for Free with Github – Curtis McHale](https://curtismchale.ca/2022/05/18/sync-your-obsidian-vault-for-free-with-github/)
 
 To get started you’re going to need to go to Github and create an account if you don’t have one. Then in the top right corner click the small + button and choose New Repository to create a new repository to house your Obsidian Vault.
