@@ -1,7 +1,8 @@
 ---
 Year: {{date | format("YYYY")}}
-tags: Source 
+tags: [{% for t in tags %}{{t.tag}}{% if not loop.last %}, {% endif %}{% endfor %}]
 Authors: {{authors}}{{directors}}
+type: zotero
 ---
 
 Title:: {{title}}

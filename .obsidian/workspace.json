@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "90c9ac0d8422c51b",
+        "id": "43857f6d5d8a6fb9",
         "type": "tabs",
         "children": [
           {
-            "id": "633e4726bdd2aebd",
+            "id": "0096801b1281a024",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Onderwerpen/AI.canvas",
-                "viewState": {
-                  "x": 460.3218583396802,
-                  "y": -106.80304645849196,
-                  "zoom": -0.7532669126625754
-                }
+                "file": "Zotero/bandHowModelEnterprise2019.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onderwerpen/AI.canvas",
+                "file": "Zotero/bandHowModelEnterprise2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onderwerpen/AI.canvas",
+                "file": "Zotero/bandHowModelEnterprise2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onderwerpen/AI.canvas"
+                "file": "Zotero/bandHowModelEnterprise2019.md"
               }
             }
           },
@@ -158,18 +155,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "633e4726bdd2aebd",
+  "active": "0096801b1281a024",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Zotero",
+    "Zotero/bandHowModelEnterprise2019.md",
+    "Templates/Zotero Template.md",
+    "Assets/image-12-x91-y269.png",
+    "bandHowModelEnterprise.md",
+    "Home.md",
     "Onderwerpen/AI index.md",
     "Onderwerpen/AI.canvas",
     "Artikelen/capgeminiDeepDiveChatGPT2023.md",
     "capgeminiDeepDiveChatGPT.md",
     "Assets/image-2-x301-y20.png",
     "stewartEnterpriseAgileRequirements2014.md",
-    "Home.md",
     "Cheat sheets/Obsidian/Zotero integration.md",
     "Untitled.md",
-    "Templates/Zotero Template.md",
     "Templates/Basic note.md",
     "Home Assistant/Music assistant.md",
     "Cheat sheets/Obsidian/voorbeeld vault.md",
@@ -186,19 +188,14 @@
     "Maand mei2020.csv",
     "Inzichten.md",
     "EA artikelen.md",
-    "Definities.md",
-    "Artikelen.md",
-    "Voorbeelden.md",
     "Test",
     "Templates",
-    "Softskills/Zo schrijf je een begrijpelijke tekst in 9 stappen.md",
     "Softskills",
     "Python",
     "Producten",
     "Overig",
     "Organisaties",
     "Zorg",
-    "Inbox",
     "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
     "Assets/Pasted image 20230214151302.png",
     "Assets/Pasted image 20230210144318.png",
@@ -206,7 +203,6 @@
     "Assets/Pasted image 20230210144145.png",
     "Assets/Pasted image 20230210144109.png",
     "Assets/Pasted image 20230210144038.png",
-    "Assets/Pasted image 20230208105552.png",
-    "Assets/Pasted image 20230206231341.png"
+    "Assets/Pasted image 20230208105552.png"
   ]
 }
