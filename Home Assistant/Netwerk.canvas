@@ -6,7 +6,7 @@
 		{"type":"text","text":"Cisco E4200\n192.168.1.106\n58:6D:8F:51:13:D3","id":"100b6b6094e2ceb5","x":-40,"y":-60,"width":250,"height":110,"color":"2"},
 		{"type":"text","text":"192.168.1.114:53\nAdguard","id":"6c757925e171e9cf","x":-860,"y":-10,"width":250,"height":58,"color":"4"},
 		{"type":"text","text":"192.168.1.114\nodroid n2+\n00:1E:06:43:17:2E","id":"cdfc3db746da1e09","x":-460,"y":-180,"width":250,"height":90},
-		{"type":"text","text":"Home PC\n192.168.1.131\n04:92:26:49:92:B4","id":"e6f742b22801de93","x":-460,"y":-70,"width":250,"height":90},
+		{"type":"text","text":"Home PC\n192.168.1.131\n04:92:26:49:92:B4\nAMD Ryzen 7 3700X 8-core\nRadeon RX 850 - 8192MB\n","id":"e6f742b22801de93","x":-460,"y":-70,"width":250,"height":150},
 		{"type":"text","text":"Netgear R6300v2\n192.168.1.100\nC4:04:15:5D:A8:46","id":"f0a69590f9db849d","x":540,"y":-280,"width":250,"height":80,"color":"2"},
 		{"type":"text","text":"Samsung TV\n192.168.1.118","id":"60fd46a17e268fee","x":960,"y":-280,"width":250,"height":80},
 		{"type":"text","text":"Nest brandmelder 2\n192.168.1.101\n18:B4:30:F2:30:AB\n","id":"b290b6f8141cf8b3","x":540,"y":-660,"width":250,"height":100},
@@ -17,14 +17,14 @@
 		{"type":"text","text":"Tuin spike\n192.168.1.125","id":"746f4262938dc520","x":80,"y":-1030,"width":250,"height":60},
 		{"type":"text","text":"Tuin spotjes\n192.168.1.110\n84:E3:42:F4:44:48","id":"9e5aad5518e35501","x":80,"y":-940,"width":250,"height":80},
 		{"type":"text","text":"Laptop Capgemini\nD8:F2:CA:55:29:EA\n192.168.1.124","id":"f54b627a19af36ef","x":210,"y":70,"width":250,"height":80},
-		{"type":"text","text":"Philips Hue bridge\n00:17:88:B4:15:BD\n192.168.1.103","id":"f345717744643b3f","x":-460,"y":110,"width":250,"height":100},
-		{"type":"text","text":"Monitor","id":"3db9aefe23a786bc","x":-460,"y":40,"width":250,"height":60},
 		{"type":"text","text":"Epson printer\n192.168.1.117\nF8:D0:27:33:9A:10","id":"f852c43291c21060","x":80,"y":-840,"width":250,"height":80},
 		{"type":"text","text":"Nest brandmelder 1\n192.168.1.104   \n18:B4:30:F2:46:54","id":"69debb25e63a6762","x":540,"y":-800,"width":250,"height":100},
 		{"type":"text","text":"Athom plug\n192.168.1.108\n4C:EB:D6:8F:3E:89","id":"4653bf151ed72b05","x":540,"y":-940,"width":250,"height":101},
 		{"type":"text","text":"Alfen laadpaal\n","id":"cf43d3438f165d09","x":-165,"y":-590,"width":250,"height":60},
 		{"type":"text","text":"Home wizard P1 meter","id":"0306f05865a39ee4","x":540,"y":-395,"width":250,"height":60},
-		{"type":"text","text":"WireGuard","id":"aad326997e5711e1","x":-860,"y":80,"width":250,"height":60,"color":"4"}
+		{"type":"text","text":"WireGuard","id":"aad326997e5711e1","x":-860,"y":80,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Monitor","id":"3db9aefe23a786bc","x":-460,"y":110,"width":250,"height":60},
+		{"type":"text","text":"Philips Hue bridge\n00:17:88:B4:15:BD\n192.168.1.103","id":"f345717744643b3f","x":-460,"y":200,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"92e378774ce3d716","fromNode":"100b6b6094e2ceb5","fromSide":"top","toNode":"a8cd8db7d7c89429","toSide":"bottom"},
