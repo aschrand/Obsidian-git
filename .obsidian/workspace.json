@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac4c8f26b8c0193",
+        "id": "f44cc3d3ffb4deb5",
         "type": "tabs",
         "children": [
           {
-            "id": "5d28238769589706",
+            "id": "d7630704485adc69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artikelen/Afkortingen in de zorg.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "35fe1f3173b3d711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softskills/Dt-fouten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a14ea0a797edb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softskills/Veelvoorkomende taalfouten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artikelen/Afkortingen in de zorg.md",
+                "file": "Softskills/Veelvoorkomende taalfouten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artikelen/Afkortingen in de zorg.md",
+                "file": "Softskills/Veelvoorkomende taalfouten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artikelen/Afkortingen in de zorg.md"
+                "file": "Softskills/Veelvoorkomende taalfouten.md"
               }
             }
           },
@@ -155,13 +180,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5d28238769589706",
+  "active": "1a14ea0a797edb90",
   "lastOpenFiles": [
+    "Softskills/Dt-fouten.md",
+    "Softskills/Veelvoorkomende taalfouten.md",
+    "Home.md",
+    "Artikelen/Afkortingen in de zorg.md",
     "Artikelen/~$Afkortingen in de zorg.pptx",
     "Artikelen/Afkortingen in de zorg.pptx",
     "Artikelen/Afkortingen in de zorg.pdf",
-    "Home.md",
-    "Artikelen/Afkortingen in de zorg.md",
     "Untitled 1.md",
     "Zotero",
     "Zotero/bandHowModelEnterprise2019.md",
@@ -190,13 +217,11 @@
     "Producten.md",
     "Organisaties.md",
     "Maand mei2020.csv",
-    "Inzichten.md",
     "Test",
     "Templates",
     "Softskills",
     "Python",
     "Producten",
-    "Overig",
     "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
     "Assets/Pasted image 20230214151302.png",
     "Assets/Pasted image 20230210144318.png",
