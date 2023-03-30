@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Python/Show-all-wifi-passwords.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Python/Show-all-wifi-passwords.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Python/Show-all-wifi-passwords.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Python/Show-all-wifi-passwords.md"
+                "file": "Home.md"
               }
             }
           },
@@ -155,11 +155,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71ae5ba763baddce",
+  "active": "639c1c68b8993028",
   "lastOpenFiles": [
+    "Artikelen.md",
+    "Definities.md",
+    "EA artikelen.md",
+    "Home.md",
+    "Inzichten.md",
+    "Organisaties.md",
+    "Producten.md",
+    "README.md",
+    "Untitled.md",
+    "Voorbeelden.md",
+    "Pages/Python/Show-all-wifi-passwords.md",
     "Pages/3 presentatie blunders.md",
     "Pages/Agility.md",
-    "Home.md",
     "Pages/Dt-fouten.md",
     "Pages/Veelvoorkomende taalfouten.md",
     "Pages/Afkortingen in de zorg.md",
@@ -179,18 +189,8 @@
     "Assets/image-2-x301-y20.png",
     "stewartEnterpriseAgileRequirements2014.md",
     "Pages/Cheat sheets/Obsidian/Zotero integration.md",
-    "Untitled.md",
     "Templates/Basic note.md",
-    "Pages/Home Assistant/Music assistant.md",
-    "Pages/Cheat sheets/Obsidian/voorbeeld vault.md",
-    "Pages/Cheat sheets/Obsidian/Obsidian callouts.md",
-    "Pages/Cheat sheets/Obsidian/Github sync.md",
-    "Pages/Cheat sheets/Obsidian/Dataview.md",
-    "Pages/Cheat sheets/Obsidian/Dashboard++.md",
-    "Pages/Cheat sheets/Obsidian/CSS Snippets.md",
-    "Pages/Cheat sheets/Obsidian/Diagrams.md",
     "Pages/Home Assistant/Netwerk.canvas",
-    "Pages/Home Assistant/5 scripts.md",
     "Maand mei2020.csv",
     "Test",
     "Templates",

@@ -12,7 +12,7 @@ cssclass: dashboard
 - ### 📚 Programmeren
 	- [[Voorbeelden]]
 - ### 🏠Home Assistant
-`$=dv.list(dv.pages('"Home Assistant"').sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)`
+`$=dv.list(dv.pages('"Pages/Home Assistant"').sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)`
 - ### 🆘 Cheatsheets
 `$=dv.list(dv.pages('').where(p=>p.type && (p.type == "cheatsheet")).sort(f=>f.file.date,"asc").limit(5).file.link)`
 
