@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a80e4817c6a6b9ad",
+        "id": "0242c161241cd6d5",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b543295966d2ea",
+            "id": "639c1c68b8993028",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home Assistant/Netwerk.canvas",
-                "viewState": {
-                  "x": -208.33282559025133,
-                  "y": 68.90632140137089,
-                  "zoom": -0.05497672813128552
-                }
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Assistant/Netwerk.canvas",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Assistant/Netwerk.canvas",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Assistant/Netwerk.canvas"
+                "file": "Home.md"
               }
             }
           },
@@ -158,15 +155,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f1b543295966d2ea",
+  "active": "71ae5ba763baddce",
   "lastOpenFiles": [
     "Home.md",
     "Softskills/Dt-fouten.md",
     "Softskills/Veelvoorkomende taalfouten.md",
-    "Artikelen/Afkortingen in de zorg.md",
+    "Pages/Afkortingen in de zorg.md",
     "Artikelen/~$Afkortingen in de zorg.pptx",
     "Artikelen/Afkortingen in de zorg.pptx",
-    "Artikelen/Afkortingen in de zorg.pdf",
+    "Pages/Afkortingen in de zorg.pdf",
     "Untitled 1.md",
     "Zotero",
     "Zotero/bandHowModelEnterprise2019.md",
@@ -175,7 +172,7 @@
     "bandHowModelEnterprise.md",
     "Onderwerpen/AI index.md",
     "Onderwerpen/AI.canvas",
-    "Artikelen/capgeminiDeepDiveChatGPT2023.md",
+    "Pages/capgeminiDeepDiveChatGPT2023.md",
     "capgeminiDeepDiveChatGPT.md",
     "Assets/image-2-x301-y20.png",
     "stewartEnterpriseAgileRequirements2014.md",
