@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77ae86fbae053df1",
+        "id": "6d23aa61cff08681",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9993fe55611fe9",
+            "id": "d1ffdd668c194518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voorbeelden.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Voorbeelden.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Voorbeelden.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Voorbeelden.md"
+                "file": "Home.md"
               }
             }
           },
@@ -155,14 +155,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc9993fe55611fe9",
+  "active": "d1ffdd668c194518",
   "lastOpenFiles": [
+    "Home.md",
+    "logseq/custom.css",
+    "logseq/config.edn",
+    "logseq",
+    "pages/contents.md",
+    "pages/Testpagina.md",
     "Untitled.md",
     "README.md",
     "Producten.md",
     "Organisaties.md",
     "Inzichten.md",
-    "Home.md",
     "EA artikelen.md",
     "Definities.md",
     "Artikelen.md",
@@ -187,16 +192,10 @@
     "pages/capgeminiDeepDiveChatGPT2023.md",
     "capgeminiDeepDiveChatGPT.md",
     "Assets/image-2-x301-y20.png",
-    "stewartEnterpriseAgileRequirements2014.md",
-    "pages/Cheat sheets/Obsidian/Zotero integration.md",
-    "Templates/Basic note.md",
     "pages/Home Assistant/Netwerk.canvas",
     "Maand mei2020.csv",
     "Test",
     "Templates",
-    "Softskills",
-    "pages/Python",
-    "pages/Producten",
     "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
     "Assets/Pasted image 20230214151302.png",
     "Assets/Pasted image 20230210144318.png",
