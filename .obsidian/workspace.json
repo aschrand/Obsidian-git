@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/3 presentatie blunders.md",
+                "file": "Pages/Python/Show-all-wifi-passwords.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/3 presentatie blunders.md",
+                "file": "Pages/Python/Show-all-wifi-passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/3 presentatie blunders.md",
+                "file": "Pages/Python/Show-all-wifi-passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/3 presentatie blunders.md"
+                "file": "Pages/Python/Show-all-wifi-passwords.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "71ae5ba763baddce",
   "lastOpenFiles": [
+    "Pages/3 presentatie blunders.md",
     "Pages/Agility.md",
     "Home.md",
     "Pages/Dt-fouten.md",
@@ -177,26 +178,25 @@
     "capgeminiDeepDiveChatGPT.md",
     "Assets/image-2-x301-y20.png",
     "stewartEnterpriseAgileRequirements2014.md",
-    "Cheat sheets/Obsidian/Zotero integration.md",
+    "Pages/Cheat sheets/Obsidian/Zotero integration.md",
     "Untitled.md",
     "Templates/Basic note.md",
     "Pages/Home Assistant/Music assistant.md",
-    "Cheat sheets/Obsidian/voorbeeld vault.md",
-    "Cheat sheets/Obsidian/Obsidian callouts.md",
-    "Cheat sheets/Obsidian/Github sync.md",
-    "Cheat sheets/Obsidian/Dataview.md",
-    "Cheat sheets/Obsidian/Dashboard++.md",
-    "Cheat sheets/Obsidian/CSS Snippets.md",
-    "Cheat sheets/Obsidian/Diagrams.md",
+    "Pages/Cheat sheets/Obsidian/voorbeeld vault.md",
+    "Pages/Cheat sheets/Obsidian/Obsidian callouts.md",
+    "Pages/Cheat sheets/Obsidian/Github sync.md",
+    "Pages/Cheat sheets/Obsidian/Dataview.md",
+    "Pages/Cheat sheets/Obsidian/Dashboard++.md",
+    "Pages/Cheat sheets/Obsidian/CSS Snippets.md",
+    "Pages/Cheat sheets/Obsidian/Diagrams.md",
     "Pages/Home Assistant/Netwerk.canvas",
     "Pages/Home Assistant/5 scripts.md",
-    "Producten.md",
     "Maand mei2020.csv",
     "Test",
     "Templates",
     "Softskills",
-    "Python",
-    "Producten",
+    "Pages/Python",
+    "Pages/Producten",
     "Assets/popit-model-business-analysis-te_dbd03b34e5db4de5b.png",
     "Assets/Pasted image 20230214151302.png",
     "Assets/Pasted image 20230210144318.png",
