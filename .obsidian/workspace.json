@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Agility.md",
+                "file": "Pages/3 presentatie blunders.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Agility.md",
+                "file": "Pages/3 presentatie blunders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Agility.md",
+                "file": "Pages/3 presentatie blunders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Agility.md"
+                "file": "Pages/3 presentatie blunders.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "71ae5ba763baddce",
   "lastOpenFiles": [
+    "Pages/Agility.md",
     "Home.md",
-    "Softskills/Dt-fouten.md",
-    "Softskills/Veelvoorkomende taalfouten.md",
+    "Pages/Dt-fouten.md",
+    "Pages/Veelvoorkomende taalfouten.md",
     "Pages/Afkortingen in de zorg.md",
     "Artikelen/~$Afkortingen in de zorg.pptx",
     "Artikelen/Afkortingen in de zorg.pptx",
@@ -190,7 +191,6 @@
     "Pages/Home Assistant/Netwerk.canvas",
     "Pages/Home Assistant/5 scripts.md",
     "Producten.md",
-    "Organisaties.md",
     "Maand mei2020.csv",
     "Test",
     "Templates",
