@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Pages/Agility.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Pages/Agility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Pages/Agility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Pages/Agility.md"
               }
             }
           },
@@ -179,7 +179,7 @@
     "Cheat sheets/Obsidian/Zotero integration.md",
     "Untitled.md",
     "Templates/Basic note.md",
-    "Home Assistant/Music assistant.md",
+    "Pages/Home Assistant/Music assistant.md",
     "Cheat sheets/Obsidian/voorbeeld vault.md",
     "Cheat sheets/Obsidian/Obsidian callouts.md",
     "Cheat sheets/Obsidian/Github sync.md",
@@ -187,8 +187,8 @@
     "Cheat sheets/Obsidian/Dashboard++.md",
     "Cheat sheets/Obsidian/CSS Snippets.md",
     "Cheat sheets/Obsidian/Diagrams.md",
-    "Home Assistant/Netwerk.canvas",
-    "Home Assistant/5 scripts.md",
+    "Pages/Home Assistant/Netwerk.canvas",
+    "Pages/Home Assistant/5 scripts.md",
     "Producten.md",
     "Organisaties.md",
     "Maand mei2020.csv",
