@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Voorbeelden.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Voorbeelden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Voorbeelden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Voorbeelden.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71ae5ba763baddce",
+  "active": "fc9993fe55611fe9",
   "lastOpenFiles": [
-    "Artikelen.md",
-    "Definities.md",
-    "EA artikelen.md",
-    "Home.md",
-    "Inzichten.md",
-    "Organisaties.md",
-    "Producten.md",
-    "README.md",
     "Untitled.md",
+    "README.md",
+    "Producten.md",
+    "Organisaties.md",
+    "Inzichten.md",
+    "Home.md",
+    "EA artikelen.md",
+    "Definities.md",
+    "Artikelen.md",
     "Voorbeelden.md",
     "pages/Python/Show-all-wifi-passwords.md",
     "pages/3 presentatie blunders.md",
