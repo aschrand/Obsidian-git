@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63e162bc76da619e",
+        "id": "7784cb94ef88c02b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7815cdbdc40892",
+            "id": "2a184314e091fdd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/ChatGPT en zorg.md",
-                "mode": "source",
+                "file": "Inzichten.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "27744e58ee199d36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/ChatGPT en zorg.md",
+                "file": "Inzichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/ChatGPT en zorg.md",
+                "file": "Inzichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/ChatGPT en zorg.md"
+                "file": "Inzichten.md"
               }
             }
           },
@@ -155,9 +163,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ae7815cdbdc40892",
+  "active": "9e6aa0bbd1582eae",
   "lastOpenFiles": [
+    "EA artikelen.md",
     "Home.md",
+    "Producten.md",
+    "pages/What happend to IBM Watson.md",
     "pages/ChatGPT en zorg.md",
     "logseq/custom.css",
     "logseq/config.edn",
@@ -166,10 +177,8 @@
     "pages/Testpagina.md",
     "Untitled.md",
     "README.md",
-    "Producten.md",
     "Organisaties.md",
     "Inzichten.md",
-    "EA artikelen.md",
     "Definities.md",
     "Artikelen.md",
     "Voorbeelden.md",
@@ -191,7 +200,6 @@
     "pages/Onderwerpen/AI index.md",
     "pages/Onderwerpen/AI.canvas",
     "pages/capgeminiDeepDiveChatGPT2023.md",
-    "capgeminiDeepDiveChatGPT.md",
     "Assets/image-2-x301-y20.png",
     "pages/Home Assistant/Netwerk.canvas",
     "Maand mei2020.csv",
