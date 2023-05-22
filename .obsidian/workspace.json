@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7784cb94ef88c02b",
+        "id": "91b2e837368114b6",
         "type": "tabs",
         "children": [
           {
-            "id": "2a184314e091fdd5",
+            "id": "4385d16995536385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inzichten.md",
+                "file": "pages/Nonfunctional-requirements.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inzichten.md",
+                "file": "pages/Nonfunctional-requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inzichten.md",
+                "file": "pages/Nonfunctional-requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inzichten.md"
+                "file": "pages/Nonfunctional-requirements.md"
               }
             }
           },
@@ -163,10 +163,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9e6aa0bbd1582eae",
+  "active": "4385d16995536385",
   "lastOpenFiles": [
-    "EA artikelen.md",
+    "pages/Scalability.md",
+    "pages/Nonfunctional-requirements.md",
     "Home.md",
+    "EA artikelen.md",
     "Producten.md",
     "pages/What happend to IBM Watson.md",
     "pages/ChatGPT en zorg.md",
@@ -197,9 +199,7 @@
     "Templates/Zotero Template.md",
     "Assets/image-12-x91-y269.png",
     "bandHowModelEnterprise.md",
-    "pages/Onderwerpen/AI index.md",
     "pages/Onderwerpen/AI.canvas",
-    "pages/capgeminiDeepDiveChatGPT2023.md",
     "Assets/image-2-x301-y20.png",
     "pages/Home Assistant/Netwerk.canvas",
     "Maand mei2020.csv",
