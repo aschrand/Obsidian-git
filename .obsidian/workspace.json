@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "91b2e837368114b6",
+        "id": "a4c7db353015db9f",
         "type": "tabs",
         "children": [
           {
-            "id": "4385d16995536385",
+            "id": "d4dccb71d9703d9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Nonfunctional-requirements.md",
-                "mode": "preview",
+                "file": "pages/Dunning Kruger effect.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cc2dd145e71f6d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Conways-law.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Nonfunctional-requirements.md",
+                "file": "pages/Dunning Kruger effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Nonfunctional-requirements.md",
+                "file": "pages/Dunning Kruger effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Nonfunctional-requirements.md"
+                "file": "pages/Dunning Kruger effect.md"
               }
             }
           },
@@ -163,11 +175,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9e6aa0bbd1582eae",
+  "active": "d4dccb71d9703d9b",
   "lastOpenFiles": [
+    "pages/Conways-law.md",
+    "pages/Dunning Kruger effect.md",
+    "Definities.md",
+    "pages/Reverse conway manoeuvre.md",
+    "Artikelen.md",
+    "Home.md",
+    "Inzichten.md",
+    "README.md",
     "pages/Scalability.md",
     "pages/Nonfunctional-requirements.md",
-    "Home.md",
     "EA artikelen.md",
     "Producten.md",
     "pages/What happend to IBM Watson.md",
@@ -178,11 +197,7 @@
     "pages/contents.md",
     "pages/Testpagina.md",
     "Untitled.md",
-    "README.md",
     "Organisaties.md",
-    "Inzichten.md",
-    "Definities.md",
-    "Artikelen.md",
     "Voorbeelden.md",
     "pages/Python/Show-all-wifi-passwords.md",
     "pages/3 presentatie blunders.md",
@@ -195,10 +210,7 @@
     "pages/Afkortingen in de zorg.pdf",
     "Untitled 1.md",
     "pages/Zotero",
-    "pages/Zotero/bandHowModelEnterprise2019.md",
-    "Templates/Zotero Template.md",
     "Assets/image-12-x91-y269.png",
-    "bandHowModelEnterprise.md",
     "pages/Onderwerpen/AI.canvas",
     "Assets/image-2-x301-y20.png",
     "pages/Home Assistant/Netwerk.canvas",
